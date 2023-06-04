@@ -1,0 +1,4 @@
+# Customer_Segmentation_Kmeans
+Here I have performed Unsupervised Learning-Clustering technique for classification of customers based on their credit card history with certain features having some pattern and distributions among them.
+Here i have applied the Kmeans clustering technique to classify the data into clusters which will help in identifying the customer with similar patterns esily.Identification of similar customer will help in the growth of husiness of the credit company by recommending customers their favourable offers,amount discounts,credit limits etc.
+Kmeans clustering is a part of unsupervised learning,where kmeans calculates and finds the perfect centroid after n iterations.It fixes the final centroid  when the centroid remains the same after n iteration and does not change.The nearest datapoints which have the same centroid are classified into one cluster and like this,clusters can be formulated and help in classification of many data points.
